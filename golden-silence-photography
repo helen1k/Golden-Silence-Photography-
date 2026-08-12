@@ -1,0 +1,11 @@
+golden-silence-photography/
+├── index.html
+├── styles.css
+├── script.js
+├── netlify.toml
+├── README.md
+└── images/
+    ├── 001.jpg
+    ├── 002.jpg
+    ├── ...
+    └── 065.jpg
